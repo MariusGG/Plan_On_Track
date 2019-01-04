@@ -15,18 +15,18 @@ This is a project by Ryan Wolfen and Marius Guei. A mobile application built in 
 ### Installation
 
 - Step 1
-  ````
-  $ Brew install yarn
-  ```
+    ````
+    $ Brew install yarn
+    ````
 - Step 2
     ````
     $ yarn add expo-cli
-    ```  
+    ````  
 - Step 3
     ````
     $ yarn install
-    ```
+    ````
 -  Step 4
-  ````
+    ````
     $ yarn start
-  ````
+    ````
